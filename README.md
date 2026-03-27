@@ -5,9 +5,9 @@ I'm a young developer from Denmark who loves building things — especially game
 ##  About Me
 
 * 🇩🇰 Based in Denmark
-* 🧠 I build whatever ideas come to mind
-* 🚀 If I think of it, I’ll probably make it and ship it
-* 🎯 Focused on learning by creating
+*  I build whatever ideas come to mind
+*  If I think of it, I’ll probably make it and ship it
+*  Focused on learning by creating
 
 ##  What I Do
 
